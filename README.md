@@ -1,2 +1,2 @@
 # udemy-drf-recipe-app-api
-Recipe app api source code.
+This is a recipe RESTful API written by using **Djnago REST framework**
